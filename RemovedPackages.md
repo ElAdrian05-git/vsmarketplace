@@ -7,11 +7,18 @@ Scanning is not perfect. Community partnership is a very valuable part of the ov
 
 | Extension Identifier                  | Removal Date | Type                          |
 |---------------------------------------|--------------|-------------------------------|
+|jackywjs.jacky-jest-runner|2/23/2026|Impersonation|
+|jackywjs.node-modules-enhanced|2/22/2026|Impersonation|
 |hetu.HetuGit|2/22/2026|Impersonation|
 |Hakai.functional-purple-modified|2/22/2026|Impersonation|
 |hhu-stups.prob|2/22/2026|Impersonation|
 |hapTeam.hap-eslint|2/22/2026|Impersonation|
 |HanazakiShiki.emmylua-cgame|2/22/2026|Impersonation|
+|v8tech.v8-code|2/21/2026|Malware|
+|algovscode.algoritmika-python-beta|2/20/2026|Impersonation|
+|algovscode.algoritmika-python|2/20/2026|Impersonation|
+|Alex-130-130.vscode-ant-design-vue-1-helper-prop|2/20/2026|Impersonation| 
+|gabrielbotan.gruvbox-vim|2/20/2026|Impersonation|
 |AmsTaFFix.daemonic-lua-api | 2/19/2026 | Malware |
 | FEYeh.ssc-ibs | 2/19/2026 | Malware |
 | cobot100.cosave101 | 2/19/2026 | Malware |
