@@ -7,7 +7,12 @@ Scanning is not perfect. Community partnership is a very valuable part of the ov
 
 | Extension Identifier                  | Removal Date | Type                          |
 |---------------------------------------|--------------|-------------------------------|
-| AmsTaFFix.daemonic-lua-api | 2/19/2026 | Malware |
+|hetu.HetuGit|2/22/2026|Impersonation|
+|Hakai.functional-purple-modified|2/22/2026|Impersonation|
+|hhu-stups.prob|2/22/2026|Impersonation|
+|hapTeam.hap-eslint|2/22/2026|Impersonation|
+|HanazakiShiki.emmylua-cgame|2/22/2026|Impersonation|
+|AmsTaFFix.daemonic-lua-api | 2/19/2026 | Malware |
 | FEYeh.ssc-ibs | 2/19/2026 | Malware |
 | cobot100.cosave101 | 2/19/2026 | Malware |
 | cobot100.kilochinese | 2/19/2026 | Malware |
