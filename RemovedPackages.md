@@ -7,6 +7,8 @@ Scanning is not perfect. Community partnership is a very valuable part of the ov
 
 | Extension Identifier                  | Removal Date | Type                          |
 |---------------------------------------|--------------|-------------------------------|
+|meetrice.mysql-blade|2/23/2026|Impersonation|
+|jjackson.bazel-syntax|2/23/2026|Impersonation|
 |jackywjs.jacky-jest-runner|2/23/2026|Impersonation|
 |jackywjs.node-modules-enhanced|2/22/2026|Impersonation|
 |hetu.HetuGit|2/22/2026|Impersonation|
