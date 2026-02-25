@@ -7,6 +7,16 @@ Scanning is not perfect. Community partnership is a very valuable part of the ov
 
 | Extension Identifier                  | Removal Date | Type                          |
 |---------------------------------------|--------------|-------------------------------|
+|JarodWright.strict-paredit-fennel|2/24/2026|Impersonation|
+|johanlaneau.bcompare-vscode-remote|2/24/2026|Impersonation|
+|Jinyuan.vscode-git-cruise-upgraded|2/24/2026|Impersonation|
+|jinweizhiyuan.webstorm-new-dark2|2/24/2026|Impersonation|
+|jianguoyun.cline|2/24/2026|Impersonation|
+|atom8n.n8n-atom-v3|2/24/2026|Impersonation|
+|atom8n.kanban-atom8n|2/24/2026|Impersonation|
+|atom8n.tampermonkey-atom8n|2/24/2026|Impersonation|
+|atom8n.mcp-inspector-atom8n|2/24/2026|Impersonation|
+|atom8n.vscode-extensionpack|2/24/2026|Impersonation|
 |meetrice.mysql-blade|2/23/2026|Impersonation|
 |jjackson.bazel-syntax|2/23/2026|Impersonation|
 |jackywjs.jacky-jest-runner|2/23/2026|Impersonation|
