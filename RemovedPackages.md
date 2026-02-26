@@ -7,6 +7,11 @@ Scanning is not perfect. Community partnership is a very valuable part of the ov
 
 | Extension Identifier                  | Removal Date | Type                          |
 |---------------------------------------|--------------|-------------------------------|
+|profezzional.package-json-upgrade-fork|2/25/2026|Impersonation|
+|DATEx2.vscode-gutter-preview-by-datex2l|2/25/2026|Impersonation|
+|Eneve.genscript-eneve|2/25/2026|Impersonation|
+|infinics.infinics-ai-assistant|2/25/2026|Impersonation|
+|marvin63597.claude-dd|2/25/2026|Impersonation|
 |JarodWright.strict-paredit-fennel|2/24/2026|Impersonation|
 |johanlaneau.bcompare-vscode-remote|2/24/2026|Impersonation|
 |Jinyuan.vscode-git-cruise-upgraded|2/24/2026|Impersonation|
