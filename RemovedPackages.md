@@ -7,6 +7,23 @@ Scanning is not perfect. Community partnership is a very valuable part of the ov
 
 | Extension Identifier                  | Removal Date | Type                          |
 |---------------------------------------|--------------|-------------------------------|
+|zhukunpeng.codemoss|2/27/2026|Untrustworthy|
+|zhukunpeng.vscode-tinypng-pro|2/26/2026|Untrustworthy|
+|live-servers.LiveeServer|2/26/2026|Impersonation|
+|lucasheartcliff.dark-coder-dracula-theme|2/26/2026|Impersonation|
+|iblea.markdown-preview-base64-iblea|2/26/2026|Impersonation|
+|iblea.vscode-paste-image-iblea|2/26/2026|Impersonation|
+|i18nflow.vscode-i18n-flow|2/26/2026|Impersonation|
+|hwrn001.snakemake-lang-pre-release|2/26/2026|Impersonation|
+|hoOJluGun.ho-ojlugun-ai|2/26/2026|Impersonation|
+|littleCareless.svn-scm-ai|2/26/2026|Impersonation|
+|mrchen.vue-jump-m|2/26/2026|Impersonation|
+|kd100100.kd100100-cline|2/26/2026|Impersonation|
+|karlosasortico.Theme-Abyss-remastered|2/26/2026|Impersonation|
+|illusions-x.yeleee-faaaah|2/26/2026|Impersonation|
+|Ktoon.mt-eden|2/26/2026|Impersonation|
+|Ktoon.recce-ai|2/26/2026|Impersonation|
+|hkalyane.csv-advanced-editor|2/26/2026|Impersonation|
 |profezzional.package-json-upgrade-fork|2/25/2026|Impersonation|
 |DATEx2.vscode-gutter-preview-by-datex2l|2/25/2026|Impersonation|
 |Eneve.genscript-eneve|2/25/2026|Impersonation|
