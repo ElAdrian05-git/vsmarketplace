@@ -7,8 +7,8 @@ Scanning is not perfect. Community partnership is a very valuable part of the ov
 
 | Extension Identifier                  | Removal Date | Type                          |
 |---------------------------------------|--------------|-------------------------------|
-|zhukunpeng.codemoss|2/27/2026|Malware|
-|zhukunpeng.vscode-tinypng-pro|2/26/2026|Malware|
+|zhukunpeng.codemoss|2/27/2026|Untrustworthy|
+|zhukunpeng.vscode-tinypng-pro|2/26/2026|Untrustworthy|
 |live-servers.LiveeServer|2/26/2026|Impersonation|
 |lucasheartcliff.dark-coder-dracula-theme|2/26/2026|Impersonation|
 |iblea.markdown-preview-base64-iblea|2/26/2026|Impersonation|
