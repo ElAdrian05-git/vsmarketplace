@@ -7,6 +7,11 @@ Scanning is not perfect. Community partnership is a very valuable part of the ov
 
 | Extension Identifier                  | Removal Date | Type                          |
 |---------------------------------------|--------------|-------------------------------|
+|adityasanwal.faa-sound|3/1/2026|Untrustworthy|
+|kazi08.mcp-audit-pii-guard|2/28/2026|Impersonation|
+|njzy.pnpm-catalog-lens-njzy|2/28/2026|Impersonation|
+|nimashoghi.gistfs-updated-main-nsh|2/28/2026|Impersonation|
+|Nice8888.cline-nice8888|2/28/2026|Impersonation|
 |zhukunpeng.codemoss|2/27/2026|Untrustworthy|
 |zhukunpeng.vscode-tinypng-pro|2/26/2026|Untrustworthy|
 |live-servers.LiveeServer|2/26/2026|Impersonation|
