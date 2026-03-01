@@ -7,7 +7,7 @@ Scanning is not perfect. Community partnership is a very valuable part of the ov
 
 | Extension Identifier                  | Removal Date | Type                          |
 |---------------------------------------|--------------|-------------------------------|
-|adityasanwal.faa-sound|3/1/2026|Malware|
+|adityasanwal.faa-sound|3/1/2026|Untrustworthy|
 |kazi08.mcp-audit-pii-guard|2/28/2026|Impersonation|
 |njzy.pnpm-catalog-lens-njzy|2/28/2026|Impersonation|
 |nimashoghi.gistfs-updated-main-nsh|2/28/2026|Impersonation|
